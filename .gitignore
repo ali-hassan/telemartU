@@ -77,3 +77,5 @@ storage/
 
 # Deployment
 .toolbelt/
+
+/config/master.key
