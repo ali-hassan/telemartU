@@ -49,7 +49,8 @@ gem 'possibly', '~> 1.0.1'
 gem 'delayed_job', '~> 4.1.3'
 gem 'delayed_job_active_record', '~> 4.1.3'
 
-gem 'web_translate_it', '~> 2.6.2'
+gem 'web_translate_it', '~>
+2.6.2'
 gem 'rails-i18n', '~> 6.0'
 gem 'devise', '~> 4.8.1'
 gem 'devise-encryptable', '~> 0.2.0'
@@ -169,7 +170,7 @@ group :development, :test do
 end
 
 
-gem 'mini_racer', '~> 0.6.0', platforms: :ruby
+# gem 'mini_racer', '~> 0.6.0', platforms: :ruby
 gem 'js-routes', '~> 2.2.3'
 # Color utilities needed for landing page
 gem 'color', '~> 1.8'
